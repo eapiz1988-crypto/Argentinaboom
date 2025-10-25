@@ -1,0 +1,1 @@
+body { font-family: system-ui, Arial; background: linear-gradient(180deg,#f3f4f6,#ffffff); margin:0; } input, select { padding:8px; border:1px solid #ccc; border-radius:6px; } button { padding:8px 12px; border-radius:6px; border:1px solid #888; background:white; cursor:pointer; }
